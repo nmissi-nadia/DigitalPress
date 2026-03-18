@@ -1,0 +1,12 @@
+com\mediatech\digitalpress\user\dto\AuthResponse.class
+com\mediatech\digitalpress\user\entity\Role.class
+com\mediatech\digitalpress\user\repository\UserRepository.class
+com\mediatech\digitalpress\user\entity\User.class
+com\mediatech\digitalpress\user\config\SecurityConfig.class
+com\mediatech\digitalpress\user\dto\LoginRequest.class
+com\mediatech\digitalpress\user\security\JwtUtil.class
+com\mediatech\digitalpress\user\dto\RegisterRequest.class
+com\mediatech\digitalpress\user\service\UserService.class
+com\mediatech\digitalpress\user\dto\UserDTO.class
+com\mediatech\digitalpress\user\controller\UserController.class
+com\mediatech\digitalpress\user\security\JwtAuthenticationFilter.class
